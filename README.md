@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sall-PY
 - 👀 I’m interested in coding, programming, design and that kind of stuff
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML, CSS.
 - 💞️ I’m looking to collaborate on nothing, haha
 - 📫 How to reach me? E-mail: sall.code.py@gmail.com
 
